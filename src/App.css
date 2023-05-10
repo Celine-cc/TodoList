@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(55, 54, 54);
+  color: beige;
+}
+
+.buttonsupp {
+    margin-left: 3%;
+    font-size: 45%;
+}
+
+.buttonmod {
+  margin-left: 1%;
+  font-size: 45%;
+}
